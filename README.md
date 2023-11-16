@@ -15,6 +15,7 @@ In the .py file, make sure you change your CLIENT_SECRET, CLIENT_ID, DEVICE_ID t
 Run the .py file by executing python spotify.py. Be sure your present working directory is aligned with where the .py file is.
 ```
 python spotify.py
+```
 
 ## Inspiration + Help
 
