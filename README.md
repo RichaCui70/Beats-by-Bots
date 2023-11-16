@@ -6,7 +6,7 @@ A program that uses Spotify API, an RFID scanner and card, an Arduino, as well a
 
 ## Installation
 
-Download a code editor, as well as the Arduino IDE
+Download a code editor (I used Visual Studio Code), as well as the Arduino IDE
 
 ## Usage
 
@@ -22,7 +22,3 @@ python spotify.py
 
 https://www.youtube.com/watch?v=-jGWjFR936o&ab_channel=talaexe
 They used a Rasperry Pi to control playback. I modified the code such that it would read RFID outputs from serial communication. Ultimately watching their video helped alot. 
-
-## License
-
-Clearly state the license under which your code is released. Common licenses include MIT, Apache, GPL, etc.
